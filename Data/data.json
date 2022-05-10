@@ -8,11 +8,11 @@
       "adress": "clairefontaine 32",
       "zip code": "H8R 2Z2",
       "comments": " Best player of french team.",
-      "profile": "<img  src='images/mbappe.jpg' alt='profile'  width='80' height='70' style='border-radius:60%' />",
+      "profile": "<img src='Data/images/mbappe.jpg' alt='profile'  width='80' height='70' style='border-radius:60%' />",
       "CV": "<a  href='resumes/resume.pdf'> link</a>"
     },
     {
-        "nom": "Messi",
+        "name": "Messi",
         "forename": "Lionnel",
         "date de naissance": "",
         "position": "manutention",
@@ -20,11 +20,11 @@
         "adress": "eiffel 18",
         "zip code": "",
         "comments": "Best player of the world.",
-        "profile": "<img  src='images/messi.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
+        "profile": "<img  src='Data/images/messi.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
         "CV": "<a  href='resumes/resume.pdf'>link</a>"
       },
       {
-        "nom": "da silva",
+        "name": "da silva",
         "forename": "neymar",
         "date de naissance": "2022-03-23",
         "position": "service à la clinktele",
@@ -32,11 +32,11 @@
         "adress": "rio 23 janeiro",
         "zip code": "H2z 2n4",
         "comments": "The world soccer super star.",
-        "profile": "<img  src='images/neymar.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
+        "profile": "<img  src='Data/images/neymar.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
         "CV": "<a  href='resumes/resume.pdf'>link</a>"
       },
       {
-        "nom": "Musk",
+        "name": "Musk",
         "forename": "Elon",
         "date de naissance": "2018-06-26",
         "position": "gérant",
@@ -44,11 +44,11 @@
         "adress": "SpaceX 33 Tesla road",
         "zip code": "O3N 1J9",
         "comments": "Tesla and SpaceX CEO & now owner of twitter social media.",
-        "profile": "<img  src='images/elon.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
+        "profile": "<img  src='Data/images/elon.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
         "CV": "<a  href='resumes/resume.pdf'>link</a>"
       },
       {
-        "nom": "situations",
+        "name": "situations",
         "forename": "Lena",
         "date de naissance": "2021-08-26",
         "position": "superviseur",
@@ -56,11 +56,11 @@
         "adress": "Paris 93 ",
         "zip code": "j3l 2h2",
         "comments": "The prettiest  french model.",
-        "profile": "<img  src='images/lena.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
+        "profile": "<img  src='Data/images/lena.jpg' alt='profile3' width='80' height='70' style='border-radius:60%' />",
         "CV": "<a  href='resumes/resume.pdf'>link</a>"
       },
       {
-        "nom": "Ronaldo",
+        "name": "Ronaldo",
         "forename": "Cristiano",
         "date de naissance": "2022-03-04",
         "position": "Développeur Android",
@@ -68,11 +68,11 @@
         "adress": "manchester 7",
         "zip code": "p3x 3s3",
         "comments": "The most followed player in the world.",
-        "profile": "<img  src='images/cristiano.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
+        "profile": "<img  src='Data/images/cristiano.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
         "CV": "<a  href='resumes/resume.pdf'>link</a>"
       },
       {
-        "nom": "Jet",
+        "name": "Jet",
         "forename": "Li",
         "date de naissance": "2022-03-04",
         "position": "gérant",
@@ -80,11 +80,11 @@
         "adress": "23 avenue Lacordere",
         "zip code": "H4S 3R2",
         "comments": "A kung-fu actor from China.",
-        "profile": "<img  src='images/jetli.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
+        "profile": "<img  src='Data/images/jetli.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
         "CV": "<a  href='resumes/resume.pdf'>link</a>"
       },
       {
-        "nom": "John",
+        "name": "John",
         "forename": "Snow",
         "date de naissance": "2022-01-28",
         "position": "service à la clinktele",
@@ -92,7 +92,7 @@
         "adress": "23 boulevard decarie",
         "zip code": "H4B 2R4",
         "comments": "The actor in the Games of thrones.",
-        "profile": "<img  src='images/john.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
+        "profile": "<img  src='Data/images/john.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
         "CV": "<a  href='resumes/resume.pdf'>link</a>"
       }
                     
