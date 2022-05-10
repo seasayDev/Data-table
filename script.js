@@ -7,7 +7,7 @@ $(document).ready(function () {
   $("#job").dataTable({
     responsive: true,
     ajax: {
-      url: "Data/data.json",
+      url: "http://127.0.0.1:5500/Data-table/Data/data.json",
       dataSrc: "",
     },
     columns: [
@@ -24,3 +24,4 @@ $(document).ready(function () {
     ],
   });
 });
+
