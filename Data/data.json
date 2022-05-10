@@ -9,7 +9,7 @@
       "zip code": "H8R 2Z2",
       "comments": " Best player of french team.",
       "profile": "<img src='Data/images/mbappe.jpg' alt='profile'  width='80' height='70' style='border-radius:60%' />",
-      "CV": "<a  href='resumes/resume.pdf'> link</a>"
+      "CV": "<a  href='Data/resumes/resume.pdf'> link</a>"
     },
     {
         "name": "Messi",
@@ -21,7 +21,7 @@
         "zip code": "",
         "comments": "Best player of the world.",
         "profile": "<img  src='Data/images/messi.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
-        "CV": "<a  href='resumes/resume.pdf'>link</a>"
+        "CV": "<a  href='Data/resumes/resume.pdf'>link</a>"
       },
       {
         "name": "da silva",
@@ -33,7 +33,7 @@
         "zip code": "H2z 2n4",
         "comments": "The world soccer super star.",
         "profile": "<img  src='Data/images/neymar.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
-        "CV": "<a  href='resumes/resume.pdf'>link</a>"
+        "CV": "<a  href='Data/resumes/resume.pdf'>link</a>"
       },
       {
         "name": "Musk",
@@ -45,7 +45,7 @@
         "zip code": "O3N 1J9",
         "comments": "Tesla and SpaceX CEO & now owner of twitter social media.",
         "profile": "<img  src='Data/images/elon.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
-        "CV": "<a  href='resumes/resume.pdf'>link</a>"
+        "CV": "<a  href='Data/resumes/resume.pdf'>link</a>"
       },
       {
         "name": "situations",
@@ -57,7 +57,7 @@
         "zip code": "j3l 2h2",
         "comments": "The prettiest  french model.",
         "profile": "<img  src='Data/images/lena.jpg' alt='profile3' width='80' height='70' style='border-radius:60%' />",
-        "CV": "<a  href='resumes/resume.pdf'>link</a>"
+        "CV": "<a  href='Data/resumes/resume.pdf'>link</a>"
       },
       {
         "name": "Ronaldo",
@@ -69,7 +69,7 @@
         "zip code": "p3x 3s3",
         "comments": "The most followed player in the world.",
         "profile": "<img  src='Data/images/cristiano.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
-        "CV": "<a  href='resumes/resume.pdf'>link</a>"
+        "CV": "<a  href='Data/resumes/resume.pdf'>link</a>"
       },
       {
         "name": "Jet",
@@ -81,7 +81,7 @@
         "zip code": "H4S 3R2",
         "comments": "A kung-fu actor from China.",
         "profile": "<img  src='Data/images/jetli.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
-        "CV": "<a  href='resumes/resume.pdf'>link</a>"
+        "CV": "<a  href='Data/resumes/resume.pdf'>link</a>"
       },
       {
         "name": "John",
@@ -93,7 +93,7 @@
         "zip code": "H4B 2R4",
         "comments": "The actor in the Games of thrones.",
         "profile": "<img  src='Data/images/john.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
-        "CV": "<a  href='resumes/resume.pdf'>link</a>"
+        "CV": "<a  href='Data/resumes/resume.pdf'>link</a>"
       }
                     
     
