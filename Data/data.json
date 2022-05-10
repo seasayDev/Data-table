@@ -14,7 +14,7 @@
     {
         "name": "Messi",
         "forename": "Lionnel",
-        "date de naissance": "",
+        "birthday": "",
         "position": "manutention",
         "email": "messi@psg",
         "adress": "eiffel 18",
@@ -26,7 +26,7 @@
       {
         "name": "da silva",
         "forename": "neymar",
-        "date de naissance": "2022-03-23",
+        "birthday": "2022-03-23",
         "position": "service à la clinktele",
         "email": "neymar@bresil.fr",
         "adress": "rio 23 janeiro",
@@ -38,7 +38,7 @@
       {
         "name": "Musk",
         "forename": "Elon",
-        "date de naissance": "2018-06-26",
+        "birthday": "2018-06-26",
         "position": "gérant",
         "email": "elon@tesla.am",
         "adress": "SpaceX 33 Tesla road",
@@ -50,7 +50,7 @@
       {
         "name": "situations",
         "forename": "Lena",
-        "date de naissance": "2021-08-26",
+        "birthday": "2021-08-26",
         "position": "superviseur",
         "email": "lena@situations.fr",
         "adress": "Paris 93 ",
@@ -62,7 +62,7 @@
       {
         "name": "Ronaldo",
         "forename": "Cristiano",
-        "date de naissance": "2022-03-04",
+        "birthday": "2022-03-04",
         "position": "Développeur Android",
         "email": "cristiano@portugal.en",
         "adress": "manchester 7",
@@ -74,7 +74,7 @@
       {
         "name": "Jet",
         "forename": "Li",
-        "date de naissance": "2022-03-04",
+        "birthday": "2022-03-04",
         "position": "gérant",
         "email": "jetli@email.cn",
         "adress": "23 avenue Lacordere",
@@ -86,7 +86,7 @@
       {
         "name": "John",
         "forename": "Snow",
-        "date de naissance": "2022-01-28",
+        "birthday": "2022-01-28",
         "position": "service à la clinktele",
         "email": "john@game.thrones",
         "adress": "23 boulevard decarie",
