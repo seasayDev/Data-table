@@ -2,7 +2,7 @@
 ### Description 
 **Data Table** is a Jquery Plugin  that helps you to display your data (`json`, `xml`, `database`, `basic table`) on your different pages in a dynamic and user-friendly way.
 #### Demo 
-* you can directly the live demo (Click) -->  
+* you can directly the live demo (Click) -->  <https://data-table-gamma.vercel.app/>
 #### Contents 
 ```sh
 .
