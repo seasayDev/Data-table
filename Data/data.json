@@ -1,101 +1,98 @@
 [
-    {
-      "name": "Mbappe",
-      "forename": "Kylian",
-      "birthday": "2022-03-09",
-      "position": "Soccer Player",
-      "email": "mbappe@psg",
-      "adress": "clairefontaine 32",
-      "zip code": "H8R 2Z2",
-      "comments": " Best player of french team.",
-      "profile": "<img src='Data/images/mbappe.jpg' alt='profile'  width='80' height='70' style='border-radius:60%' />",
-      "CV": "<a  href='Data/resumes/resume.pdf'> link</a>"
-    },
-    {
-        "name": "Messi",
-        "forename": "Lionnel",
-        "birthday": "",
-        "position": "Soccer Player",
-        "email": "messi@psg",
-        "adress": "eiffel 18",
-        "zip code": "",
-        "comments": "Best player of the world.",
-        "profile": "<img  src='Data/images/messi.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
-        "CV": "<a  href='Data/resumes/resume.pdf'>link</a>"
-      },
-      {
-        "name": "da silva",
-        "forename": "neymar",
-        "birthday": "2022-03-23",
-        "position": "Soccer Player",
-        "email": "neymar@bresil.fr",
-        "adress": "rio 23 janeiro",
-        "zip code": "H2z 2n4",
-        "comments": "The world soccer super star.",
-        "profile": "<img  src='Data/images/neymar.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
-        "CV": "<a  href='Data/resumes/resume.pdf'>link</a>"
-      },
-      {
-        "name": "Musk",
-        "forename": "Elon",
-        "birthday": "2018-06-26",
-        "position": "C.E.O",
-        "email": "elon@tesla.am",
-        "adress": "SpaceX 33 Tesla road",
-        "zip code": "O3N 1J9",
-        "comments": "Tesla and SpaceX CEO & now owner of twitter social media.",
-        "profile": "<img  src='Data/images/elon.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
-        "CV": "<a  href='Data/resumes/resume.pdf'>link</a>"
-      },
-      {
-        "name": "situations",
-        "forename": "Lena",
-        "birthday": "2021-08-26",
-        "position": "French Model",
-        "email": "lena@situations.fr",
-        "adress": "Paris 93 ",
-        "zip code": "j3l 2h2",
-        "comments": "The prettiest  french model.",
-        "profile": "<img  src='Data/images/lena.jpg' alt='profile3' width='80' height='70' style='border-radius:60%' />",
-        "CV": "<a  href='Data/resumes/resume.pdf'>link</a>"
-      },
-      {
-        "name": "Ronaldo",
-        "forename": "Cristiano",
-        "birthday": "2022-03-04",
-        "position": "Soccer Player",
-        "email": "cristiano@portugal.en",
-        "adress": "manchester 7",
-        "zip code": "p3x 3s3",
-        "comments": "The most followed player in the world.",
-        "profile": "<img  src='Data/images/cristiano.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
-        "CV": "<a  href='Data/resumes/resume.pdf'>link</a>"
-      },
-      {
-        "name": "Jet",
-        "forename": "Li",
-        "birthday": "2022-03-04",
-        "position": "Actor",
-        "email": "jetli@email.cn",
-        "adress": "23 avenue Lacordere",
-        "zip code": "H4S 3R2",
-        "comments": "A kung-fu actor from China.",
-        "profile": "<img  src='Data/images/jetli.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
-        "CV": "<a  href='Data/resumes/resume.pdf'>link</a>"
-      },
-      {
-        "name": "John",
-        "forename": "Snow",
-        "birthday": "2022-01-28",
-        "position": "Actor",
-        "email": "john@game.thrones",
-        "adress": "23 boulevard decarie",
-        "zip code": "H4B 2R4",
-        "comments": "The actor in the Games of thrones.",
-        "profile": "<img  src='Data/images/john.jpg' alt='profile' width='80' height='70' style='border-radius:60%' />",
-        "CV": "<a  href='Data/resumes/resume.pdf'>link</a>"
-      }
-                    
-    
+  {
+    "name": "Mbappe",
+    "forename": "Kylian",
+    "birthday": "2022-03-09",
+    "position": "Soccer Player",
+    "email": "mbappe@psg",
+    "adress": "clairefontaine 32",
+    "zip code": "H8R 2Z2",
+    "comments": "Best player of french team.",
+    "profile": "Data/images/mbappe.jpg",
+    "CV": "Data/resumes/resume.pdf"
+  },
+  {
+    "name": "Messi",
+    "forename": "Lionnel",
+    "birthday": "",
+    "position": "Soccer Player",
+    "email": "messi@psg",
+    "adress": "eiffel 18",
+    "zip code": "",
+    "comments": "Best player of the world.",
+    "profile": "Data/images/messi.jpg",
+    "CV": "Data/resumes/resume.pdf"
+  },
+  {
+    "name": "da silva",
+    "forename": "neymar",
+    "birthday": "2022-03-23",
+    "position": "Soccer Player",
+    "email": "neymar@bresil.fr",
+    "adress": "rio 23 janeiro",
+    "zip code": "H2z 2n4",
+    "comments": "The world soccer super star.",
+    "profile": "Data/images/neymar.jpg",
+    "CV": "Data/resumes/resume.pdf"
+  },
+  {
+    "name": "Musk",
+    "forename": "Elon",
+    "birthday": "2018-06-26",
+    "position": "C.E.O",
+    "email": "elon@tesla.am",
+    "adress": "SpaceX 33 Tesla road",
+    "zip code": "O3N 1J9",
+    "comments": "Tesla and SpaceX CEO & now owner of twitter social media.",
+    "profile": "Data/images/elon.jpg",
+    "CV": "Data/resumes/resume.pdf"
+  },
+  {
+    "name": "situations",
+    "forename": "Lena",
+    "birthday": "2021-08-26",
+    "position": "French Model",
+    "email": "lena@situations.fr",
+    "adress": "Paris 93",
+    "zip code": "j3l 2h2",
+    "comments": "The prettiest french model.",
+    "profile": "Data/images/lena.jpg",
+    "CV": "Data/resumes/resume.pdf"
+  },
+  {
+    "name": "Ronaldo",
+    "forename": "Cristiano",
+    "birthday": "2022-03-04",
+    "position": "Soccer Player",
+    "email": "cristiano@portugal.en",
+    "adress": "manchester 7",
+    "zip code": "p3x 3s3",
+    "comments": "The most followed player in the world.",
+    "profile": "Data/images/cristiano.jpg",
+    "CV": "Data/resumes/resume.pdf"
+  },
+  {
+    "name": "Jet",
+    "forename": "Li",
+    "birthday": "2022-03-04",
+    "position": "Actor",
+    "email": "jetli@email.cn",
+    "adress": "23 avenue Lacordere",
+    "zip code": "H4S 3R2",
+    "comments": "A kung-fu actor from China.",
+    "profile": "Data/images/jetli.jpg",
+    "CV": "Data/resumes/resume.pdf"
+  },
+  {
+    "name": "John",
+    "forename": "Snow",
+    "birthday": "2022-01-28",
+    "position": "Actor",
+    "email": "john@game.thrones",
+    "adress": "23 boulevard decarie",
+    "zip code": "H4B 2R4",
+    "comments": "The actor in the Games of thrones.",
+    "profile": "Data/images/john.jpg",
+    "CV": "Data/resumes/resume.pdf"
+  }
 ]
-  

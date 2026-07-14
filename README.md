@@ -1,14 +1,31 @@
 # Data-table
-### Description 
-**Data Table** is a Jquery Plugin  that helps you to display your data (`json`, `xml`, `database`, `basic table`) on your different pages in a dynamic and user-friendly way.
-#### Demo 
-* you can directly the live demo (Click) -->  <https://data-table-gamma.vercel.app/>
-#### Contents 
+
+A clean, modern **people directory** — a fast, searchable, sortable data table
+powered by **jQuery + DataTables**, restyled with a minimalist green theme.
+
+![People Directory](https://img.shields.io/badge/DataTable-2.1.8-16a34a) ![jQuery](https://img.shields.io/badge/jQuery-3.7.1-0769ad)
+
+## ✨ Features
+
+- 🔎 **Instant search** — global filter across every column
+- ↕️ **Sortable & paginated** — responsive Bootstrap-5 styled table
+- 🖼️ **Avatar column** — circular profile images with graceful fallback
+- 📄 **Resume links** — one-click open of each person's PDF
+- 📊 **Live stats** — total entries shown in the hero and synced on filter
+- 📱 **Fully responsive** — looks great on mobile and desktop
+- 🎨 **No build step** — plain HTML/CSS/JS, open and go
+
+## 🚀 Live demo
+
+▶️ https://data-table-gamma.vercel.app/
+
+## 📁 Project structure
+
 ```sh
 .
 ├── Data
-│   ├── data.json
-│   ├── images
+│   ├── data.json          # the people dataset
+│   ├── images/            # profile pictures
 │   │   ├── cristiano.jpg
 │   │   ├── elon.jpg
 │   │   ├── jetli.jpg
@@ -19,40 +36,62 @@
 │   │   └── neymar.jpg
 │   └── resumes
 │       └── resume.pdf
-├── index.html
+├── index.html             # page markup
+├── style.css              # green theme + DataTables overrides
+├── script.js              # DataTable init + column renderers
 ├── LICENSE
-├── README.md
-├── script.js
-└── style.css
+└── README.md
 ```
-* [`README.md`](README.md) the official documentation.
-* [`index.html`](index.html) the entry point of the website.
-* [`script.js`](script.js) the script file that contains the datatable logic. 
-* [`Data`](Data/) the directory that contains the data used (`json`, `images`, `pdf`).
 
-#### Technology and development tools 
+## 🛠️ Run locally
 
-* Visual studio Code (IDE)
-* HTML5
-* CSS
-* JQuery (Javascript) 
-* Datatable
-* Tailwind CSS 
+Because the data is loaded via `fetch` (AJAX), serve the folder over HTTP —
+opening `index.html` directly with `file://` will block the JSON request.
 
-#### References 
+```sh
+# Python
+python3 -m http.server 8000
 
-* The official documentation of Datatable <https://datatables.net/>
+# or Node
+npx serve .
+```
 
-* Tailwind CSS <https://tailwindcss.com/docs/installation>
+Then open <http://localhost:8000>.
 
-* JQuery <https://jquery.com/>
+## 🧩 Data format
 
-* Cdnjs <https://cdnjs.com/>
+Edit `Data/data.json` to manage the roster. Each entry:
 
-* Vercel <https://vercel.com/docs> (Deployment)
+```json
+{
+  "name": "Mbappe",
+  "forename": "Kylian",
+  "birthday": "2022-03-09",
+  "position": "Soccer Player",
+  "email": "mbappe@psg",
+  "adress": "clairefontaine 32",
+  "zip code": "H8R 2Z2",
+  "comments": "Best player of french team.",
+  "profile": "Data/images/mbappe.jpg",
+  "CV": "Data/resumes/resume.pdf"
+}
+```
 
-#### Author
-* Saliou  ([SeasayDev](https://github.com/seasayDev))
+> The `profile` and `CV` fields are plain paths — the table renders the
+> avatar and the resume link automatically.
 
-#### Licence
-* The MIT Licence - [Link](LICENCE)
+## 🧱 Tech stack
+
+- **HTML5** + **CSS3** (custom green theme)
+- **jQuery 3.7**
+- **DataTables 2.1** (Bootstrap 5 styling)
+- Font: **Inter** (Google Fonts)
+- Deployed on **Vercel**
+
+## 👤 Author
+
+Saliou — [@seasayDev](https://github.com/seasayDev)
+
+## 📄 License
+
+MIT — see [LICENSE](LICENSE).
